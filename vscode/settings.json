@@ -1,0 +1,40 @@
+{
+    "vscode_custom_css.imports": [
+        "file:///Users/rlong/ryelo/styles.css"
+    ],
+
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "OperatorMono-Book",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#161616",
+        "panel.background": "#0f0f0f",
+        "sideBar.background": "#141414",
+        "editor.background": "#0f0f0f",
+        "terminal.ansiYellow": "#fff000",
+        "terminal.ansiBrightCyan": "#5ffdff",
+    },
+
+    "explorer.confirmDelete": false,
+
+    "window.zoomLevel": 0,
+
+    "liveshare.featureSet": "insiders",
+
+    "go.useLanguageServer": true,
+
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Monaco",
+    "terminal.integrated.rendererType": "dom",
+    "sync.gist": "83305ec7830a4fdf70ee61253fd5f47f",
+    "sync.autoUpload": true,
+    "workbench.colorTheme": "Dark-Dracula",
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDragAndDrop": false,
+    "polacode.shadow": "",
+    "polacode.backgroundColor": "transparent",
+    "polacode.transparentBackground": true,
+    "polacode.target": "snippet"
+}
